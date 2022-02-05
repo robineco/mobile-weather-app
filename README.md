@@ -8,5 +8,5 @@ npm run serve
 
 ## Preview
 
-<img src="https://github.com/robineco/mobile-weather-app/blob/master/preview/detailview.png" alt="drawing" width="200"/>
+<img src="https://github.com/robineco/mobile-weather-app/blob/master/preview/detailview.jpeg" alt="drawing" width="200"/>
 <img src="https://github.com/robineco/mobile-weather-app/blob/master/preview/overview.png" alt="drawing" width="200"/>
